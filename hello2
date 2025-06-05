@@ -1,0 +1,43 @@
+We often deal with complex issues in Third Line Support, where users encounter problems such as position upload failures, and need book-level details to resolve their issues. Currently, these requests require manual 
+intervention, requiring support to retrieve specific data, like book, instruments or position details etc.,
+
+Imagine a scenario where an AI assistant is built to handle these types of requests autonomously. Users could simply ask for book details, journal entries, or information related to their position upload issues, 
+and the system would retrieve the necessary data from the database and respond in natural language—just like a human support agent.
+
+This AI assistant would dramatically streamline our workflow, reduce manual effort, and improve the overall user experience. which we can make it production ready.
+
+a typical use case will be like,
+
+
+"I am a Vals user, my position upload is not working. Can you provide book details for book Book_26?"
+AI Response: "The details for Book_26 are as follows:
+
+
+How It Works:
+Natural Language Understanding: Users will type queries in simple natural language (e.g., “Provide me journal entries for book Book_26”). The AI agent, powered by GPT-4 or a similar model,
+ will parse and understand the intent behind the query. It doesn’t require the user to know any SQL or complex syntax.
+
+
+Benefits:
+Increased Efficiency:
+Users get immediate access to the data they need, without having to wait for a support  to manually query the system. This will speed up issue resolution, 
+particularly for recurring queries like book details and position uploads.
+
+Reduced Support Load:
+By automating frequent queries, this system will allow third-line support  to focus on more complex or escalated issues, rather than spending time fetching routine data.
+
+Improved User Experience:
+Users will appreciate the ability to get real-time, accurate responses to their queries in a conversational manner. 
+
+Accessibility:
+With no need for SQL knowledge or technical training, the system makes database interactions accessible to non-technical users. Whether they’re asking for a balance, journal entries, or position upload details, 
+the AI assistant makes querying intuitive.
+
+
+Conclusion:
+The proposed AI Support Assistant would revolutionize the way we handle Third Line Support tasks. 
+For that matter, any project team users can use this tool to get results from database like sqlserver/oracle etc.,
+By enabling users to interact with the system in natural language, we can automate frequent queries and reduce the burden on support 
+, while improving response times and user satisfaction.
+
+
